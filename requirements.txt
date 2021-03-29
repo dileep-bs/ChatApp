@@ -129,7 +129,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pycups==1.9.73
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 PyHamcrest==1.9.0
 PyJWT==1.7.1
