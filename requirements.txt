@@ -19,7 +19,7 @@ boto==2.49.0
 boto3==1.10.19
 botocore==1.13.19
 Brlapi==0.6.6
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.13.2
 channels==2.4.0
 channels-redis==2.4.1
